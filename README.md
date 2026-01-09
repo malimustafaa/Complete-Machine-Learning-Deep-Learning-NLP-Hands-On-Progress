@@ -1,0 +1,1 @@
+This all hands-on work was done while I was learning and gaining hands on experiences with Machine Learning, Deep Learning, NLP. In NLP one or two files the error is due to incompatibility of my OS with the required libraries to perform certain tasks, to cater that I shifted to colab environemnt online and there performed all those activities and they executed successfully.
